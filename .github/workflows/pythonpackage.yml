@@ -28,3 +28,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install mkdocs mkdocs-windmill
         mkdocs build
+        mv ./site/* .
+    - name: Commit the site
+      run: |
+        git config --local user.email ""
+        git config --local user.name "maekawatoshiki"
+        git remote add github "https://$GITHUB_ACTOR:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+        git pull github ${GITHUB_REF} --ff-only
+        git add -A
+        git commit -m "Update the site"
+        git push github HEAD:${GITHUB_REF}
