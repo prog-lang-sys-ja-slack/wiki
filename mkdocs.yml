@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: プログラミング言語処理系が好きな人の集まり
+
+theme:
+  name: 'material'
+  language: 'ja'
+  extra:
+    search:
+      language: 'ja'
+
+extra_css:
+  - "css/custom.css"
