@@ -4,7 +4,7 @@
 
 # 招待
 
-[招待リンクはこちら．](https://prog-lang-sys-ja.slack.com/join/shared_invite/enQtNjg2NDgxMjIwMTMzLTM1NDA1NTZiZTQxMjZiNWYwZTY1MTFkYzM3YmNmMDM4YmRlZDU5Njc3ZTJlNzQ5MmEwYTk0YjdjNWUyMTZhMjQ).
+[招待リンクはこちら．](https://prog-lang-sys-ja.slack.com/join/shared_invite/enQtNjg2NDgxMjIwMTMzLTM1NDA1NTZiZTQxMjZiNWYwZTY1MTFkYzM3YmNmMDM4YmRlZDU5Njc3ZTJlNzQ5MmEwYTk0YjdjNWUyMTZhMjQ)
 自由に配っていただいて大丈夫です．
 
 

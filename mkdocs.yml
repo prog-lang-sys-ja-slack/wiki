@@ -3,9 +3,8 @@ site_name: プログラミング言語処理系が好きな人の集まり
 theme:
   name: 'material'
   language: 'ja'
+  logo: "image/logo.png"
+  custom_dir: 'theme'
   extra:
     search:
       language: 'ja'
-
-extra_css:
-  - "css/custom.css"
