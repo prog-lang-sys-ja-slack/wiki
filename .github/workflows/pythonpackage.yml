@@ -37,4 +37,4 @@ jobs:
         git pull github ${GITHUB_REF} --ff-only
         git add -A
         git commit -m "Update the site"
-        git push github HEAD:master
+        git push github HEAD:master -f
