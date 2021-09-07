@@ -20,18 +20,6 @@
 ``#whoami`` チャンネルに，大まかなチャンネル紹介がピン留めされています．
 もちろん他にも様々なチャンネルがあるので，各自で探してください．
 
-## Scrapbox
+# Scrapbox
 
 情報をまとめるために [Scrapbox](https://scrapbox.io/prog-lang-sys-ja/) を開設しました。
-
-## 定期ミートアップ
-
-有志による定期ミートアップを２週に１回程度開催しています。
-
-詳細は[こちら](meetup.md)
-
-日程や参加の方法などは ``#定期ミートアップ`` チャンネルで告知しています。
-
-過去の記録は[Scrapbox](https://scrapbox.io/prog-lang-sys-ja/%E5%AE%9A%E6%9C%9F%E3%83%9F%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97)をご覧ください。
-
-[YouTube チャンネル](https://www.youtube.com/channel/UCgb02BlIypK-283D46-C3lw)に過去の動画をアップロードしてあります。
