@@ -2,16 +2,16 @@
 
 プログラミング言語処理系が好きな人の集まり(slack)向けのポータルサイト
 
-
-
 # ローカルで開発する
 
 ```
-git checkout dev
+git checkout master
 pip install mkdocs mkdocs-material
 mkdocs serve
 ```
 
-# devブランチとmasterブランチ
+# 変更を公開するには
 
-現在，devブランチにpushするとGitHub Actionsが勝手に``mkdocs build``などを自動で実行してできあがったもの(静的サイト)をmasterブランチへpushするようになっています．
+```
+mkdocs gh-deploy
+```
