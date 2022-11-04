@@ -1,6 +1,6 @@
 # 定期ミートアップ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hPGFiUp5s_A?start=673" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hPGFiUp5s_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 2021/5 より有志による定期ミートアップを Zoom 上で２週に１回程度開催しています。
 
