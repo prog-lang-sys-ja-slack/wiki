@@ -1,40 +1,25 @@
 # ようこそ
 
-**プログラミング言語処理系が好きな人の集まり**は，言語処理系に関する話題ならなんでもありな Slack ワークスペースです．
+**プログラミング言語処理系が好きな人の集まり**は、言語処理系に関する話題ならなんでもありな Zulip コミュニティです。
 
 # 参加したい方へ
 
-## <span style="color: red; ">注意事項：現在 Slack から Zulip への移行を検討中です。現在は Slack と Zulip 双方にコンテンツがありますのでご注意ください。</span>
+## まずは覗いてみよう
 
-## まずはワークスペースへ入ろう
+- [Zulip のリンク](https://prog-lang-sys-ja.zulipchat.com/)から中を覗けます。
 
-1. Zulip
+- メンバーとして参加される際は[Zulip の招待リンク](https://prog-lang-sys-ja.zulipchat.com/join/4cbjznglafocvwpeh5r76cqy/)から登録してください。
 
-   - [Zulip のリンク](https://prog-lang-sys-ja.zulipchat.com/)から中を覗けます。
-
-   - メンバーとして参加される際は[Zulip の招待リンク](https://prog-lang-sys-ja.zulipchat.com/join/4cbjznglafocvwpeh5r76cqy/)から登録してください。
-
-2. Slack
-
-   - [Slack の招待リンク](https://prog-lang-sys-ja.slack.com/join/shared_invite/enQtNjg2NDgxMjIwMTMzLTM1NDA1NTZiZTQxMjZiNWYwZTY1MTFkYzM3YmNmMDM4YmRlZDU5Njc3ZTJlNzQ5MmEwYTk0YjdjNWUyMTZhMjQ)から参加できます。
-     この招待リンクは自由に再配布可能です．
 
 ## 次は自己紹介
 
-- Slack の`#whoami` チャンネルで自己紹介をすると良いです．
+- `#general` で自己紹介をすると良いです。
 
-- 参加した目的を簡単にまとめれば，他の人がぴったりのチャンネルを紹介してくれるかもしれません．
+- 参加した目的を簡単にまとめれば、他の人がぴったりのストリームを紹介してくれるかもしれません。
 
-## チャンネル紹介
+## ストリーム紹介
 
-1. Slack
-
-   - `#whoami` チャンネルに，大まかなチャンネル紹介がピン留めされています．
-     もちろん他にも様々なチャンネルがあるので，各自で探してください．
-
-2. Zulip
-
-   - `#general`のほか、`#雑談` `#質問` `#言語` `#進捗` `#meetup`などのストリームがあります。
+- `#general` のほか、`#雑談` `#質問` `#言語` `#進捗` `#meetup` などのストリームがあります。
 
 ## Scrapbox
 
